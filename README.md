@@ -1,6 +1,6 @@
 # Cairo-Monorail-Ticket-Booking-System
 
-Description
+Description : 
 The monorail system is a complete system that deals with passengers in booking a ticket or 
 admins in editing or adding any data related to trains, trips and tickets. The system starts by 
 asking the user whether he is a passenger or an admin. The first scenario if the person is a 
@@ -17,7 +17,7 @@ with a price that is preset by the admin. A train should have a certain start po
 that passes by multiple stopping stations.
 
 
-Notes for running 
+Notes for running : 
 • We defined only 1 default admin account for our system with:
 username: ahmed 
 password: ahmed 
